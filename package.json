@@ -1,10 +1,10 @@
 {
-  "name": "engine.io",
+  "name": "engine.io(shortid)",
   "version": "3.2.0",
   "description": "The realtime engine behind Socket.IO. Provides the foundation of a bidirectional connection between client and server",
   "main": "lib/engine.io",
   "author": "Guillermo Rauch <guillermo@learnboost.com>",
-  "homepage": "https://github.com/socketio/engine.io",
+  "homepage": "https://github.com/Keevle/engine.io",
   "contributors": [
     {
       "name": "Eugen Dueck",
