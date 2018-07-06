@@ -24,7 +24,7 @@ io.on('connection', function (socket) {
   });
 });
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 1998;
 server.listen(port, function () {
   console.log('\x1B[96mlistening on localhost:' + port + ' \x1B[39m');
 });
